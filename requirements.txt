@@ -1,0 +1,5 @@
+spotipy
+streamlit
+plotly
+pandas
+streamlit-components
